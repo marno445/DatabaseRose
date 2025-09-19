@@ -2,7 +2,12 @@
   "users": {
     "7853514708": {
       "joined": "2025-09-20 05:49:19",
-      "state": "waiting_media"
+      "state": "waiting_name",
+      "temp_media": {
+        "file_id": "AgACAgUAAxkBAANZaM1potqa3HH1T96NM-U6oz02BcAAAnnLMRuDy2hWXZ08oqJChpwBAAMCAAN5AAM2BA",
+        "type": "photo",
+        "owner": 7853514708
+      }
     }
   },
   "links": {}
