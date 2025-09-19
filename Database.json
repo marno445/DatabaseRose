@@ -2,17 +2,20 @@
   "users": {
     "7853514708": {
       "joined": "2025-09-20 05:49:19",
-      "state": "waiting_name",
-      "temp_media": {
-        "file_id": "AgACAgUAAxkBAAPHaM3gu3lQa-hYBt2kUZv14HV-TkEAAmjRMRu28mhW19k367uqFXoBAAMCAAN4AAM2BA",
-        "type": "photo",
-        "owner": 7853514708
-      }
+      "state": null
     },
     "7368159991": {
       "joined": "2025-09-20 05:58:50",
       "state": null
     }
   },
-  "links": {}
+  "links": {
+    "FirstDrive": {
+      "file_id": "AgACAgUAAxkBAAPHaM3gu3lQa-hYBt2kUZv14HV-TkEAAmjRMRu28mhW19k367uqFXoBAAMCAAN4AAM2BA",
+      "type": "photo",
+      "owner": 7853514708,
+      "time": "2025-09-20 06:01:28",
+      "name": "FirstDrive"
+    }
+  }
 }
